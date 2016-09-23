@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ACN_test">9b03f29ddb062200e7f9ddd0cf9619dd</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ACN_test Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_23889_acn_test_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_23889_acn_test.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-09-23 06:11:52</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8813369ddb062200e7f9ddd0cf96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ACN_test Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ACN_test" source="x_23889_acn_test">9b033251dbc22200e7f9ddd0cf961962</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ACN_test">9b033251dbc22200e7f9ddd0cf961962</sys_scope>
+        <sys_update_name>sys_app_module_8813369ddb062200e7f9ddd0cf96190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-09-23 06:11:52</sys_updated_on>
+        <timeline_page/>
+        <title>ACN_test Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
